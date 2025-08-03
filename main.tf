@@ -1,3 +1,5 @@
+
+
 terraform {
   required_providers {
     null = {
@@ -26,7 +28,6 @@ resource "null_resource" "k3s_config" {
   }
   depends_on = [null_resource.install_k3s]
 }
-
 
 resource "null_resource" "k3s_status" {
   provisioner "local-exec" {
