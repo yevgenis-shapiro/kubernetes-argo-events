@@ -13,3 +13,5 @@ variable "disable_components" {
   type    = string
   default = "--disable traefik --disable local-storage"
 }
+
+
