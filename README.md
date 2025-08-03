@@ -1,5 +1,6 @@
 
-![argo-events-architecture](https://github.com/user-attachments/assets/8597f49a-0b00-4045-b48a-32dada887ee4)
+<img width="8274" height="3378" alt="456176368-8597f49a-0b00-4045-b48a-32dada887ee4" src="https://github.com/user-attachments/assets/ac86c233-9bc3-4289-8b09-bcd62368381a" />
+
 
 
 ## Argo Events | Kubernetes ☸️
