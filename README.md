@@ -1,6 +1,4 @@
-
-<img width="8274" height="3378" alt="456176368-8597f49a-0b00-4045-b48a-32dada887ee4" src="https://github.com/user-attachments/assets/ac86c233-9bc3-4289-8b09-bcd62368381a" />
-
+<img width="8274" height="3378" alt="argo-events-architecture" src="https://github.com/user-attachments/assets/a41bdcb4-0ca1-43a5-87e2-8e45d7a3a20c" />
 
 
 ## Argo Events | Kubernetes ☸️
