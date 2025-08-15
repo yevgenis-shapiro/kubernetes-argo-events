@@ -20,7 +20,7 @@ Kafka / NATS / MQTT / AMQP
 Webhooks (HTTP)
 Calendar/Cron (scheduled events)
 GCP Pub/Sub, AWS SNS/SQS
-Kubernetes CRDs (like Velero backup events)
+Kubernetes CRDs 
 ```
 
 🚀 
