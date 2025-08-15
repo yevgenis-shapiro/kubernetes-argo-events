@@ -11,3 +11,5 @@ resource "helm_release" "argo_events" {
   #  file("argo-events-values.yaml")  # optional, see below
   #]
 }
+
+
